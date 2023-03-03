@@ -1,0 +1,5 @@
+Steps to run the app:-
+1) open the project location -(node projects folder)
+2)click on the above directory in the folder and enter "cmd" to open the command prompt.
+3)use the command "node app.js" to start the server.
+4)go to the browser and enter "http://localhost:8081/" to see the output.
